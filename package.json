@@ -1,5 +1,11 @@
 {
   "name": "ashhellwig-next",
+  "description": "Personal site for Ash Hellwig",
+  "author": {
+    "name": "Ash Hellwig",
+    "email": "ahellwig.dev@gmail.com",
+    "url": "https://ashtonhellwig.netlify.app"
+  },
   "version": "0.1.0",
   "private": true,
   "scripts": {
